@@ -4,7 +4,7 @@
 
 ## Preparation
 
-For this project you need to deploy judge0 client, see [Judge0 Deployment] (https://github.com/judge0/judge0/blob/master/CHANGELOG.md#deployment-procedure)
+For this project you need to deploy judge0 client, see: [Judge0 Deployment](https://github.com/judge0/judge0/blob/master/CHANGELOG.md#deployment-procedure)
 
 ## Running the project
 
